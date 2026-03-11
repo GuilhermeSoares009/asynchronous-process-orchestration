@@ -36,8 +36,6 @@ app/AsyncOrchestration/
 config/
 
 database/migrations/
-
-specs/
 ```
 
 ## Requirements
@@ -95,9 +93,4 @@ php artisan queue:work
 
 ## Documentation
 
-- Spec and plan: `specs/001-orquestrador-assincrono/`
 - Manual tests: `docs/manual-tests.md`
-
-## Status
-
-WIP. Foundation setup and specs are in place; implementation is in progress.
