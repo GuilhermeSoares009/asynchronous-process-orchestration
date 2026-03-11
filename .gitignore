@@ -1,0 +1,14 @@
+spec-kit/
+AGENTS.md
+PLANEJAMENTO.md
+vendor/
+node_modules/
+.env
+.env.*
+storage/logs/
+storage/framework/
+bootstrap/cache/
+.phpunit.result.cache
+public/hot
+.idea/
+.vscode/
